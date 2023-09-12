@@ -1,0 +1,6 @@
+[submodule "electronicFence"]
+	path = electronicFence
+	url = git@github.com:nanjuxing/yuxi_mars3D.git
+[submodule "react-crud"]
+	path = react-crud
+	url = git@github.com:nanjuxing/react-crud.git
